@@ -1,0 +1,6 @@
+Zadanie 4.1:
+	Liczba takich liczb to: 17
+Zadanie 4.2:
+	Takie liczby to: [2, 145, 1, 40585]
+Zadanie 4.3:
+	Pierwszy element ci¹gu to 90, ciag trwa 5, NWD wysnosi 10
